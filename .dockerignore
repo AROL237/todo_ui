@@ -7,8 +7,15 @@ node_modules
 
 # Ignore local environment files
 .env
+
 .DS_Store
+
 
 # Ignore logs and temporary files
 *.log
 *.tmp
+
+
+Dockerfile
+.git
+npm-debug.log
