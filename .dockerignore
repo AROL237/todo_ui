@@ -6,7 +6,7 @@ node_modules
 .next
 
 # Ignore local environment files
-.env
+.env*
 
 .DS_Store
 
